@@ -8,6 +8,11 @@ body {
     background: white;
     margin: 50px 100px;
 }
+.fecha {
+    float: right;
+    color: gray;
+
+}
 .primero {
     display: flex;
     height: 30px;
