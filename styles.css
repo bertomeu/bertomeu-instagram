@@ -1,0 +1,50 @@
+* {
+    box-sizing: border-box;
+}
+body {
+    background: black;
+}
+.todo {
+    background: white;
+    margin: 50px 100px;
+}
+.primero {
+    display: flex;
+    height: 30px;
+    justify-content: center;
+}
+
+.segundo {
+    display: block;
+    background: rgb(208, 206, 206);
+    height: 2800px;
+}
+.foto-1 {
+    background: white;
+    width: 600px;
+    height: 600px;
+    margin: 100px auto;
+    
+}
+.foto-2 {
+    background: white;
+    width: 600px;
+    height: 600px;
+    margin: 100px auto;
+}    
+.foto-3 {
+    background: white;
+    width: 600px;
+    height: 600px;
+    margin: 100px auto;
+}    
+.foto-4 {
+    background: white;
+    width: 600px;
+    height: 600px;
+    margin: 100px auto;
+}
+p ,
+h1 {
+    padding: 10px;
+}
