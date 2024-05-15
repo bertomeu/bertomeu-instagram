@@ -15,39 +15,41 @@ body {
 }
 .primero {
     display: flex;
-    height: 30px;
+    height: 100px;
     justify-content: center;
 }
 
 .segundo {
-    display: block;
+    display: flex;
+    flex-direction: column;
     background: rgb(208, 206, 206);
-    height: 2800px;
+    height: 2700px;
+    justify-content: center;
 }
 .foto-1 {
     background: white;
     width: 600px;
     height: 600px;
-    margin: 100px auto;
+    margin: 25px auto;
     
 }
 .foto-2 {
     background: white;
     width: 600px;
     height: 600px;
-    margin: 100px auto;
+    margin: 25px auto;
 }    
 .foto-3 {
     background: white;
     width: 600px;
     height: 600px;
-    margin: 100px auto;
+    margin: 25px auto;
 }    
 .foto-4 {
     background: white;
     width: 600px;
     height: 600px;
-    margin: 100px auto;
+    margin: 25px auto;
 }
 p ,
 h1 {
